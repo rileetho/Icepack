@@ -7,5 +7,5 @@ This is the GitHub repository for all codes, information I use to learn and run 
 *icepack*: A Python library for solving the equations of motion of glacier flow.  
 
 **Tutorials:**  
-*[Directly from icepack](https://github.com/icepack/icepack/tree/master/notebooks/tutorials)*: 00-meshes-functions, 01-synthetic-ice-sheet, 04-synthetic-ice-stream-xy  
-*Recreated myself*: Meshes_functions_tutorial, Synthetic_ice_sheet, tbc...
+*[Directly from icepack](https://github.com/icepack/icepack/tree/master/notebooks/tutorials)*: 00-meshes-functions, 01-synthetic-ice-sheet, 04-synthetic-ice-stream-xy.  
+*Recreated myself*: Meshes_functions_tutorial, Synthetic_ice_sheet, Synthetic_ice_shelf, Synthetic_ice_stream.
